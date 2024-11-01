@@ -1,4 +1,7 @@
 # Portfólio de Projetos - Imersão Alura 2022
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Este repositório contém uma série de projetos desenvolvidos durante a Imersão Alura, realizada em setembro de 2022. Cada projeto explora diferentes conceitos de HTML5, CSS3 e JavaScript aplicados em atividades práticas, desde o uso de variáveis até a criação de interações dinâmicas com o usuário. O portfólio reflete o progresso no aprendizado dessas tecnologias e demonstra como elas podem ser usadas para criar aplicações web interativas e funcionais.
 
