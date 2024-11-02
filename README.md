@@ -10,6 +10,8 @@ Este portfólio foi criado para documentar o aprendizado e os experimentos reali
 ## Projetos
 
 ### 1. Calculadora de Média
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Calculadora%20de%20m%C3%A9dia)
+
 Neste projeto, foi criada uma calculadora de média para calcular o desempenho do usuário com base nas notas de cada bimestre. Os principais objetivos foram explorar o conceito de variáveis e realizar operações aritméticas em JavaScript.
 
   - Tecnologias: HTML, CSS, JavaScript
@@ -18,6 +20,8 @@ Neste projeto, foi criada uma calculadora de média para calcular o desempenho d
     - Cálculo e exibição da média final arredondada.
 
 ### 2. Conversor de Moeda
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)]([https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Conversor%20de%20moeda])
+
 O Conversor de Moeda foi desenvolvido para converter valores entre diferentes moedas, permitindo que o usuário insira a taxa de conversão e o valor desejado. Este projeto enfatizou a manipulação de valores e a criação de interfaces dinâmicas com JavaScript.
 
   - Tecnologias: HTML, CSS, JavaScript
@@ -27,6 +31,8 @@ O Conversor de Moeda foi desenvolvido para converter valores entre diferentes mo
     - Exibição do valor convertido com base nos dados inseridos pelo usuário.
 
 ### 3. Jogo de Adivinhação (Mentalista)
+[![Acesse o Repositório](https://img.shields.io/badge/Acesse%20o%20Reposit%C3%B3rio-gray?style=for-the-badge)]([https://github.com/vitoriapguimaraes/portfolio-projetos-web-Java/tree/master/Mentalista])
+
 O jogo Mentalista é uma aplicação interativa onde o programa escolhe um número aleatório, e o usuário tenta adivinhar o número correto. Este projeto introduziu conceitos de lógica condicional e manipulação de eventos em JavaScript.
 
   - Tecnologias: HTML, CSS, JavaScript
